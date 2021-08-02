@@ -10,7 +10,7 @@
 
 Hi, I'm [Dikshansh!](https://www.linkedin.com/in/deekay1712/), a passionate self-taught Web and Application Developer 🚀 from India.
 
-<img align="right" alt="GIF" src="assets/life_balance.gif"  width="300" height="auto" />
+<img align="right" alt="GIF" src="assets/work.gif"  width="300" height="auto" />
   
 **<img src="assets/Developer.gif" width="20px"> About Me:**
 
