@@ -64,6 +64,11 @@ Hi, I'm [Dikshansh!](https://www.linkedin.com/in/deekay1712/), a passionate self
 <a href="https://github.com/deekay1712/notezy" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deekay1712&repo=codate&theme=dark" />
 </a>
+<br/>
+<br/>
+<a href="https://github.com/deekay1712/notezy" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deekay1712&repo=vtop-captcha-crack&theme=dark" />
+</a>
 
 ---
 **✍️Random Dev Quote**
