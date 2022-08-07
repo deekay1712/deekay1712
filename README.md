@@ -11,8 +11,8 @@ Hi, I'm [Dikshansh!](https://www.linkedin.com/in/deekay1712/), a passionate self
   
 **<img src="assets/Developer.gif" height="20px"> About Me:**
 
-- 👨🏽‍💻 I’m currently doing my Bachelor in "Computer Scinece and Engineering";
-- 🌱 I’m currently trying my hands on Machine Learning; 
+- 👨🏽‍💻 I’m currently doing my Bachelor in "Computer Science and Engineering";
+- 🌱 I’m currently trying my hands on Blockchain Development; 
 - 🔭 I read about cosmos in my free time;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dikshansh1712@gmail.com
