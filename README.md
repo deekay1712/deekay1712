@@ -7,26 +7,15 @@
 
 Hi, I'm [Dikshansh!](https://www.linkedin.com/in/deekay1712/), a passionate self-taught Web and Application Developer 🚀 from India.
 
-<img align="right" alt="GIF" src="assets/work.gif"  width="300" height="auto" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/80641727/217891448-860fead2-4300-46fd-b34f-7599936a3eff.gif"  width="300" height="auto" />
   
-**<img src="assets/Developer.gif" height="20px"> About Me:**
+**<img src="https://user-images.githubusercontent.com/80641727/217891470-dee236dc-9f3e-4fd1-95a2-9d54ddd10766.gif" height="20px"> About Me:**
 
 - 👨🏽‍💻 I’m currently doing my Bachelor in "Computer Science and Engineering";
 - 🌱 I’m currently trying my hands on Blockchain Development; 
 - 🔭 I read about cosmos in my free time;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dikshansh1712@gmail.com
-
-<!-- 
-**👨🏻‍💻 Languages and Tools:**  
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> -->
-                                                                                                               
 
 **📢 Find me elsewhere**
 <p align="left">
